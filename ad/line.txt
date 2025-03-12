@@ -1,3 +1,4 @@
+! Line Message AD
 0.0.0.0 a.line.me
 0.0.0.0 ad-center.line.me
 0.0.0.0 lap-click.tr.line.me
