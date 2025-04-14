@@ -1,2 +1,2 @@
 # Navicat
-127.0.0.1	activate.navicat.com
+127.0.0.1 activate.navicat.com
