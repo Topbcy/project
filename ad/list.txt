@@ -2,8 +2,8 @@
 127.0.0.1 activate.navicat.com
 
 # ESET
-127.0.0.1 expire.eset.com
-127.0.0.1 edf.eset.com
+#127.0.0.1 expire.eset.com
+#127.0.0.1 edf.eset.com
 
 # Easeus.com
 127.0.0.1 easeus.com
