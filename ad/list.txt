@@ -18,6 +18,7 @@
 ||8iko.com^
 ||r8w0.com^
 ||3ko1.com^
+||miccuu.com^
 
 # Easeus.com
 127.0.0.1 easeus.com
