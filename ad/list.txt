@@ -11,6 +11,8 @@
 ||gnj01.com^
 ||8bm7.com^
 ||nj01.com^
+||wo87sf.com^
+
 
 # Easeus.com
 127.0.0.1 easeus.com
