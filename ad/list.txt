@@ -14,6 +14,8 @@
 ||wo87sf.com^
 ||qb6ges.com^
 ||xmmku.com^
+||nbjinze.com^
+||8iko.com^
 
 # Easeus.com
 127.0.0.1 easeus.com
