@@ -5,6 +5,13 @@
 #127.0.0.1 expire.eset.com
 #127.0.0.1 edf.eset.com
 
+# AIDA64
+||5hej.com^
+||hshh.org^
+||gnj01.com^
+||8bm7.com^
+||nj01.com^
+
 # Easeus.com
 127.0.0.1 easeus.com
 127.0.0.1 www.easeus.com
