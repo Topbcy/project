@@ -1,6 +1,9 @@
 # hayav block
 slippersprimeexaltation.com###iframe
 ||slippersprimeexaltation.com^$document,~inline-font
+##+js(aopw, slippersprimeexaltation.com)
+||slippersprimeexaltation.com^$popup
+
 
 # cybermania adblock detect
 ||cybermania.ws/wp-content/litespeed/css/e58aaa284dee0052ff68912e4d2a0706.css
