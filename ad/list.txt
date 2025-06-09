@@ -40,21 +40,3 @@
 127.0.0.1 buy.easeus.com
 127.0.0.1 v2api-uoss.easeus.com
 
-# Disney Whitelist
-@@||global.edge.bamgrid.com^$important
-@@||search-api-disney.svcs.dssott.com^$important
-@@||prod-ripcut-delivery.disney-plus.net^$important
-@@||search-api-disney.bamgrid.com^$important
-@@||us.edge.bamgrid.com^$important
-@@||playback-certs.bamgrid.com^$important
-@@||sanalytics.disneyplus.com$important
-@@||search-api-disney.svcs.dssott.com$important
-@@||global.edge.bamgrid.com$important
-@@||prod-ripcut-delivery.disney-plus.net$important
-@@||sdk.iad-03.braze.com$important
-@@||7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com$important
-@@||us.edge.bamgrid.com$important
-@@||config-cd-dmgz.bamgrid.com$important
-@@||bam-sdk-configs.bamgrid.com$important
-@@||bamgrid.com^$important
-@@||search-api-disney.svcs.dssott.com^$important
