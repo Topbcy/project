@@ -39,3 +39,11 @@
 127.0.0.1 curl.haxx.se
 127.0.0.1 buy.easeus.com
 127.0.0.1 v2api-uoss.easeus.com
+
+# Disney Whitelist
+@@||global.edge.bamgrid.com^$important
+@@||search-api-disney.svcs.dssott.com^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
+@@||search-api-disney.bamgrid.com^$important
+@@||us.edge.bamgrid.com^$important
+@@||playback-certs.bamgrid.com^$important
