@@ -48,7 +48,6 @@
 @@||us.edge.bamgrid.com^$important
 @@||playback-certs.bamgrid.com^$important
 @@||sanalytics.disneyplus.com$important
-
 @@||search-api-disney.svcs.dssott.com$important
 @@||global.edge.bamgrid.com$important
 @@||prod-ripcut-delivery.disney-plus.net$important
@@ -57,3 +56,5 @@
 @@||us.edge.bamgrid.com$important
 @@||config-cd-dmgz.bamgrid.com$important
 @@||bam-sdk-configs.bamgrid.com$important
+@@||bamgrid.com^$important
+@@||search-api-disney.svcs.dssott.com^$important
