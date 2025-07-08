@@ -6,8 +6,6 @@
 ||slippersprimeexaltation.com^$popup
 
 ! cybermania adblock detect
-||cybermania.ws/wp-content/litespeed/css/e58aaa284dee0052ff68912e4d2a0706.css
-||cybermania.ws/wp-content/litespeed/css/a480957f0bd30930e10e9c5023f1e22b.css
-||cybermania.ws/wp-content/litespeed/css/aadcbc56af9ca585078867af1b405d29.css
-||cybermania.ws/wp-content/litespeed/css/aadcbc56af9ca585078867af1b405d29.css
-||cybermania.ws/wp-content/uploads/afefde/*
+cybermania.ws##[class^="baabbe-"]
+cybermania.ws##body.baabbe-faffdbcabf:style(filter: none !important;)
+cybermania.ws##body.baabbe-faffdbcabf > *:style(filter: none !important;)
