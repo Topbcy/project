@@ -5,20 +5,20 @@
 ! hayav block
 ||slippersprimeexaltation.com^$popup
 
-! cybermania adblock detect (解除遮罩與模糊)
-cybermania.ws##[class^="baabbe-"]
-cybermania.ws##body.baabbe-faffdbcabf:style(filter: none !important;)
-cybermania.ws##body.baabbe-faffdbcabf > *:style(filter: none !important;)
-cybermania.ws##body.baabbe-fbafdbbfeb:style(filter: none !important)
-cybermania.ws##body.baabbe-fbafdbbfeb > *:style(filter: none !important)
-cybermania.ws##.baabbe-afdbbf:style(display: none !important)
-cybermania.ws##.baabbe-aabbe:style(display: none !important)
-cybermania.ws##.baabbe-ebffdb:style(display: none !important)
+! Cybermania Adblock 偵測遮罩解決方案（精準版，不誤殺）
+! 移除遮罩與彈窗（只針對幾個特定容器）
 cybermania.ws##.baabbe-close:style(display: none !important)
-! 偵測變數阻止 (JS 偵測防範)
+cybermania.ws##div[class^="baabbe-"]:style(display: none !important)
+cybermania.ws##div[class*="baabbe-"]:style(display: none !important)
+! 取消 body 模糊（只針對有模糊屬性的 body）
+cybermania.ws##body[class*="baabbe-"]:style(filter: none !important)
+cybermania.ws##body[class*="baabbe-"] > *:style(filter: none !important)
+! 防止 baabbe 偵測變數運作
 cybermania.ws##+js(abort-on-property-read, baabbe)
 cybermania.ws##+js(abort-on-property-write, baabbe)
 cybermania.ws##+js(aopr, baabbe)
-! 封鎖 deblocker 插件
+! 阻止 deblocker 插件
 ||cybermania.ws/wp-content/plugins/deblocker^
+! 選擇性模糊保底用法（如果真的還有殘留才啟用）
+! cybermania.ws##body > div[style*="blur"]:style(filter: none !important)
 
