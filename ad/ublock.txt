@@ -5,7 +5,7 @@
 ! hayav block
 ||slippersprimeexaltation.com^$popup
 
-! cybermania adblock detect
+! cybermania adblock detect (解除遮罩與模糊)
 cybermania.ws##[class^="baabbe-"]
 cybermania.ws##body.baabbe-faffdbcabf:style(filter: none !important;)
 cybermania.ws##body.baabbe-faffdbcabf > *:style(filter: none !important;)
@@ -15,7 +15,10 @@ cybermania.ws##.baabbe-afdbbf:style(display: none !important)
 cybermania.ws##.baabbe-aabbe:style(display: none !important)
 cybermania.ws##.baabbe-ebffdb:style(display: none !important)
 cybermania.ws##.baabbe-close:style(display: none !important)
+! 偵測變數阻止 (JS 偵測防範)
 cybermania.ws##+js(abort-on-property-read, baabbe)
 cybermania.ws##+js(abort-on-property-write, baabbe)
 cybermania.ws##+js(aopr, baabbe)
+! 封鎖 deblocker 插件
 ||cybermania.ws/wp-content/plugins/deblocker^
+
