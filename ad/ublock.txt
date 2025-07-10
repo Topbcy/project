@@ -9,3 +9,13 @@
 cybermania.ws##[class^="baabbe-"]
 cybermania.ws##body.baabbe-faffdbcabf:style(filter: none !important;)
 cybermania.ws##body.baabbe-faffdbcabf > *:style(filter: none !important;)
+cybermania.ws##body.baabbe-fbafdbbfeb:style(filter: none !important)
+cybermania.ws##body.baabbe-fbafdbbfeb > *:style(filter: none !important)
+cybermania.ws##.baabbe-afdbbf:style(display: none !important)
+cybermania.ws##.baabbe-aabbe:style(display: none !important)
+cybermania.ws##.baabbe-ebffdb:style(display: none !important)
+cybermania.ws##.baabbe-close:style(display: none !important)
+cybermania.ws##+js(abort-on-property-read, baabbe)
+cybermania.ws##+js(abort-on-property-write, baabbe)
+cybermania.ws##+js(aopr, baabbe)
+||cybermania.ws/wp-content/plugins/deblocker^
