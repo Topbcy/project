@@ -40,3 +40,7 @@
 127.0.0.1 buy.easeus.com
 127.0.0.1 v2api-uoss.easeus.com
 
+# PingPlotter
+127.0.0.1 pingplotter.com
+127.0.0.1 www.pingplotter.com
+127.0.0.1 a2-20-254-145.deploy.static.akamaitechnologies.com
