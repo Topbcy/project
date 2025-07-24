@@ -22,3 +22,7 @@ cybermania.ws##+js(aopr, baabbe)
 ! 選擇性模糊保底用法（如果真的還有殘留才啟用）
 ! cybermania.ws##body > div[style*="blur"]:style(filter: none !important)
 
+! offkab block
+xcamcovid.com###load-modal > .modal-dialog > .modal-content
+xcamcovid.com##+js(set-constant, document.body.style.overflow, "")
+xcamcovid.com##+js(set-constant, document.body.className, "")
