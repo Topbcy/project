@@ -26,6 +26,10 @@ cybermania.ws##+js(aopr, baabbe)
 xcamcovid.com###load-modal > .modal-dialog > .modal-content
 xcamcovid.com##+js(set-constant, document.body.style.overflow, "")
 xcamcovid.com##+js(set-constant, document.body.className, "")
+! offkab block
+fc2ppv.stream###load-modal > .modal-dialog > .modal-content
+fc2ppv.stream##+js(set-constant, document.body.style.overflow, "")
+fc2ppv.stream##+js(set-constant, document.body.className, "")
 
 ! TMDB block adult 
 themoviedb.org##.item_adult_true:style(filter: none !important;)
