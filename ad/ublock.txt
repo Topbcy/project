@@ -30,6 +30,7 @@ xcamcovid.com##+js(set-constant, document.body.className, "")
 fc2ppv.stream###load-modal > .modal-dialog > .modal-content
 fc2ppv.stream##+js(set-constant, document.body.style.overflow, "")
 fc2ppv.stream##+js(set-constant, document.body.className, "")
+##div.popup-box-ads[style][data-darkreader-inline-bgimage][data-darkreader-inline-bgcolor][data-darkreader-inline-boxshadow]
 
 ! TMDB block adult 
 themoviedb.org##.item_adult_true:style(filter: none !important;)
