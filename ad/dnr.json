@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||slippersprimeexaltation.com^",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||cybermania.ws/wp-content/plugins/deblocker^",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest"]
+    }
+  }
+]
