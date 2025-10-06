@@ -1,3 +1,7 @@
+[Adguard]
+! Title: Topbcy List
+!
+
 ! hayav block
 ||slippersprimeexaltation.com^$popup
 ||isabellaentire.com^$popup
