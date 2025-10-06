@@ -1,0 +1,64 @@
+! hayav block
+||slippersprimeexaltation.com^$popup
+||isabellaentire.com^$popup
+
+! Cybermania Adblock 偵測遮罩解決方案（精準版，不誤殺）
+! 移除遮罩與彈窗（只針對幾個特定容器）
+cybermania.ws##.baabbe-close:style(display: none !important)
+cybermania.ws##div[class^="baabbe-"]:style(display: none !important)
+cybermania.ws##div[class*="baabbe-"]:style(display: none !important)
+! 取消 body 模糊（只針對有模糊屬性的 body）
+cybermania.ws##body[class*="baabbe-"]:style(filter: none !important)
+cybermania.ws##body[class*="baabbe-"] > *:style(filter: none !important)
+! 防止 baabbe 偵測變數運作
+cybermania.ws##+js(abort-on-property-read, baabbe)
+cybermania.ws##+js(abort-on-property-write, baabbe)
+cybermania.ws##+js(aopr, baabbe)
+! 阻止 deblocker 插件
+||cybermania.ws/wp-content/plugins/deblocker^
+! 選擇性模糊保底用法（如果真的還有殘留才啟用）
+! cybermania.ws##body > div[style*="blur"]:style(filter: none !important)
+
+! offkab block
+xcamcovid.com###load-modal > .modal-dialog > .modal-content
+xcamcovid.com##+js(set-constant, document.body.style.overflow, "")
+xcamcovid.com##+js(set-constant, document.body.className, "")
+fc2ppv.stream###load-modal > .modal-dialog > .modal-content
+fc2ppv.stream##+js(set-constant, document.body.style.overflow, "")
+fc2ppv.stream##+js(set-constant, document.body.className, "")
+javdb561.com##nav.app-desktop-banner:first-child
+javdb.com##nav.app-desktop-banner:first-child
+s-porn.com###protection
+s-porn.com##.protection
+s-porn.com##body.protection:style(overflow:auto !important)
+s-porn.com#%#//scriptlet('remove-class', 'protection', 'body', 'stay')
+kin8-jav.com###protection
+kin8-jav.com##.protection
+kin8-jav.com##body.protection:style(overflow:auto !important)
+kin8-jav.com#%#//scriptlet('remove-class', 'protection', 'body', 'stay')
+
+! TMDB block adult 
+themoviedb.org##.item_adult_true:style(filter: none !important;)
+
+! DMM Home Page AD
+dmm.co.jp##div:nth-child(41)
+pro.imdb.com###logged-out-modal-v2
+tw.stock.yahoo.com###subscription-banner > div.Maw\(\$w-container-max\).Bxz\(bb\).Mx\(a\).Px\(20px\).D\(f\).Ai\(c\).Jc\(sb\)
+dmm.co.jp##div:nth-child(43)
+video.dmm.co.jp##div:nth-child(53)
+dmm.co.jp##div:nth-child(45)
+video.dmm.co.jp##div:nth-child(82)
+video.dmm.co.jp##div:nth-child(65)
+video.dmm.co.jp##div:nth-child(66)
+video.dmm.co.jp##div:nth-child(81)
+video.dmm.co.jp###global-dialog
+video.dmm.co.jp##.z-global-dialog
+video.dmm.co.jp##body:style(overflow:auto !important)
+
+! Block javlibrary.com Agree tips
+##div#adultwarningmask
+
+avbase.net##ruby rt:style(display:none !important)
+avbase.net##ruby + span.ml-1:style(display:none !important)
+
+
