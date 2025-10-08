@@ -22,6 +22,7 @@
 ||wwa7.com^
 ||g7e6.com^
 ||uedfd.com^
+||qz94.com^
 
 # Easeus.com
 127.0.0.1 easeus.com
