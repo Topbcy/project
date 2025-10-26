@@ -83,5 +83,10 @@ video.dmm.co.jp##body:style(overflow:auto !important)
 
 avbase.net##ruby rt:style(display:none !important)
 avbase.net##ruby + span.ml-1:style(display:none !important)
+google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-white.shadow-sm:first-child > div.max-w-7xl.mx-auto.px-4 > div.flex.justify-between.h-16 > div.flex.items-center:first-child > div.flex-shrink-0:first-child > a > img.h-8
+google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-white.shadow-sm:first-child > div.max-w-7xl.mx-auto.px-4 > div.flex.justify-between.h-16 > div.flex.items-center.space-x-4:last-child
+google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-white.shadow-sm:first-child > div.max-w-7xl.mx-auto.px-4 > div.flex.justify-between.h-16 > div.flex.items-center:first-child > div.nav-menu.ml-8:last-child
 
+! Faleno
+faleno.jp###bottom-bar > div.img_bottom
 
