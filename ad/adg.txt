@@ -90,3 +90,5 @@ google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-
 ! Faleno
 faleno.jp###bottom-bar > div.img_bottom
 
+forum.gamer.com.tw###post_2538568 > div.c-section__main.c-post:last-child > div.c-post__body:nth-child(2) > div.c-post__body__signature.nocontent:nth-child(2)
+imgurl.org##div.footer:nth-child(8)
