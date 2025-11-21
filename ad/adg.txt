@@ -51,6 +51,7 @@ fc2ppv.stream##+js(set-constant, document.body.style.overflow, "")
 fc2ppv.stream##+js(set-constant, document.body.className, "")
 javdb561.com##nav.app-desktop-banner:first-child
 javdb.com##nav.app-desktop-banner:first-child
+javdb563.com##nav.app-desktop-banner:first-child
 s-porn.com###protection
 s-porn.com##.protection
 s-porn.com##body.protection:style(overflow:auto !important)
