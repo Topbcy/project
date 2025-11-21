@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2025.1121.1
+! Version: 2025.1121.2
 ! Expires: 1 hour
 !
 
@@ -51,8 +51,9 @@ xcamcovid.com##+js(set-constant, document.body.className, "")
 fc2ppv.stream###load-modal > .modal-dialog > .modal-content
 fc2ppv.stream##+js(set-constant, document.body.style.overflow, "")
 fc2ppv.stream##+js(set-constant, document.body.className, "")
-javdb561.com##nav.app-desktop-banner:first-child
 javdb.com##nav.app-desktop-banner:first-child
+javdb561.com##nav.app-desktop-banner:first-child
+javdb562.com##nav.app-desktop-banner:first-child
 javdb563.com##nav.app-desktop-banner:first-child
 s-porn.com###protection
 s-porn.com##.protection
