@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2025.1121.2
+! Version: 2025.1121.3
 ! Expires: 1 hour
 !
 
