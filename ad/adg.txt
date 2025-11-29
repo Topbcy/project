@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2025.1121.3
+! Version: 2025.1130.1
 ! Expires: 1 min
 !
 
@@ -55,6 +55,7 @@ javdb.com##nav.app-desktop-banner:first-child
 javdb561.com##nav.app-desktop-banner:first-child
 javdb562.com##nav.app-desktop-banner:first-child
 javdb563.com##nav.app-desktop-banner:first-child
+javdb564.com##nav.app-desktop-banner:first-child
 s-porn.com###protection
 s-porn.com##.protection
 s-porn.com##body.protection:style(overflow:auto !important)
