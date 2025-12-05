@@ -1,9 +1,9 @@
 # Navicat
-127.0.0.1 activate.navicat.com
+activate.navicat.com
 
 # ESET
-#127.0.0.1 expire.eset.com
-#127.0.0.1 edf.eset.com
+#expire.eset.com
+#edf.eset.com
 
 # AIDA64
 ||5hej.com^
@@ -25,49 +25,49 @@
 ||qz94.com^
 
 # Easeus.com
-127.0.0.1 easeus.com
-127.0.0.1 www.easeus.com
-127.0.0.1 activation.easeus.com
-127.0.0.1 easeus.com.cn
-127.0.0.1 www.easeus.com.cn
-127.0.0.1 track.easeus.com
-127.0.0.1 track.easeus.com.cn
-127.0.0.1 api.easeus.com
-127.0.0.1 update.easeus.com
-127.0.0.1 map2.hwcdn.net
-127.0.0.1 easeusinfo.us-east-1.log.aliyuncs.com
-127.0.0.1 aaa100cd68bbe03f3.awsglobalaccelerator.com
-127.0.0.1 uompro.easeus.com
-127.0.0.1 order.easeus.com
-127.0.0.1 curl.haxx.se
-127.0.0.1 buy.easeus.com
-127.0.0.1 v2api-uoss.easeus.com
+easeus.com
+www.easeus.com
+activation.easeus.com
+easeus.com.cn
+www.easeus.com.cn
+track.easeus.com
+track.easeus.com.cn
+api.easeus.com
+update.easeus.com
+map2.hwcdn.net
+easeusinfo.us-east-1.log.aliyuncs.com
+aaa100cd68bbe03f3.awsglobalaccelerator.com
+uompro.easeus.com
+order.easeus.com
+curl.haxx.se
+buy.easeus.com
+v2api-uoss.easeus.com
 
 # PingPlotter
-127.0.0.1 pingplotter.com
-127.0.0.1 www.pingplotter.com
-127.0.0.1 a2-20-254-145.deploy.static.akamaitechnologies.com
+pingplotter.com
+www.pingplotter.com
+a2-20-254-145.deploy.static.akamaitechnologies.com
 
 # Adobe
-127.0.0.1 lm.licenses.adobe.com
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 lm-prd-da1.licenses.adobe.com
-127.0.0.1 activate.adobe.com
-127.0.0.1 activate.wip4.adobe.com
-127.0.0.1 practivate.adobe.com
-127.0.0.1 practivate-da1.adobe.com
-127.0.0.1 na1r.services.adobe.com
-127.0.0.1 hlrcv.stage.adobe.com
-127.0.0.1 uds.licenses.adobe.com
-127.0.0.1 licenses.adobe.com
-127.0.0.1 license.adobe.com
-127.0.0.1 helpexamples.com
-127.0.0.1 activate-sea.adobe.com
-127.0.0.1 activate-sjc0.adobe.com
-127.0.0.1 ereg.adobe.com
-127.0.0.1 activate.wip3.adobe.com
-127.0.0.1 wip3.adobe.com
-127.0.0.1 ereg.wip3.adobe.com
-127.0.0.1 wwis-dubc1-vip60.adobe.com
-127.0.0.1 genuine.adobe.com
-127.0.0.1 prod.adobegenuine.com
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+lm-prd-da1.licenses.adobe.com
+activate.adobe.com
+activate.wip4.adobe.com
+practivate.adobe.com
+practivate-da1.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+uds.licenses.adobe.com
+licenses.adobe.com
+license.adobe.com
+helpexamples.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+ereg.adobe.com
+activate.wip3.adobe.com
+wip3.adobe.com
+ereg.wip3.adobe.com
+wwis-dubc1-vip60.adobe.com
+genuine.adobe.com
+prod.adobegenuine.com
