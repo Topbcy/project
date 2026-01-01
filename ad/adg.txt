@@ -72,5 +72,5 @@ sis001.com##.ad_text
 
 ! www.chiphell.com
 chiphell.com##[id^="favatar"] .md_ctrl
-www.chiphell.com##[id^="favatar"] dl.cl.pil
+chiphell.com##[id^="favatar"] dl.cl.pil
 
