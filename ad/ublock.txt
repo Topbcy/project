@@ -1,5 +1,5 @@
-[Ublock]
-! Title: Topbcy List
+[uBlock]
+! Title: Topbcy List uBlock
 ! Version: 2026.0102.6
 !
 
