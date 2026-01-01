@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2026.0102.4
+! Version: 2026.0102.5
 !
 
 ! hayav block
@@ -62,6 +62,7 @@ video.dmm.co.jp###iFrameResizer0
 ! Block javlibrary.com Agree tips
 ##div#adultwarningmask
 
+! Avbase
 avbase.net##ruby rt:style(display:none !important)
 avbase.net##ruby + span.ml-1:style(display:none !important)
 google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-white.shadow-sm:first-child > div.max-w-7xl.mx-auto.px-4 > div.flex.justify-between.h-16 > div.flex.items-center:first-child > div.flex-shrink-0:first-child > a > img.h-8
@@ -79,7 +80,9 @@ imgurl.org##div.footer:nth-child(8)
 
 ! https://sis001.com
 sis001.com##.ad_text
+sis001.com###rules
 162.252.9.25##.ad_text
+162.252.9.25###rules
 
 ! www.chiphell.com
 chiphell.com##[id^="favatar"] .md_ctrl
@@ -90,4 +93,7 @@ www.mgstage.com##.appeal-modal-overlay
 ||static.mgstage.com/mgs/img/popup/*.jpg$image
 www.mgstage.com###info
 www.mgstage.com##section.right_bnr > ul
-
+www.mgstage.com###center_column > .isp_none
+www.mgstage.com###other_service
+||static.mgstage.com/mgs/img/pc/*_right_*.jpg$image
+www.mgstage.com##.random_sale_banner_box
