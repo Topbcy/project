@@ -77,23 +77,3 @@ forum.gamer.com.tw###post_2538568 > div.c-section__main.c-post:last-child > div.
 
 ! Imgurl
 imgurl.org##div.footer:nth-child(8)
-
-! https://sis001.com
-sis001.com##.ad_text
-sis001.com###rules
-162.252.9.25##.ad_text
-162.252.9.25###rules
-
-! www.chiphell.com
-chiphell.com##[id^="favatar"] .md_ctrl
-chiphell.com##[id^="favatar"] dl.cl.pil
-
-! www.mgstage.com
-www.mgstage.com##.appeal-modal-overlay
-||static.mgstage.com/mgs/img/popup/*.jpg$image
-www.mgstage.com###info
-www.mgstage.com##section.right_bnr > ul
-www.mgstage.com###center_column > .isp_none
-www.mgstage.com###other_service
-||static.mgstage.com/mgs/img/pc/*_right_*.jpg$image
-www.mgstage.com##.random_sale_banner_box
