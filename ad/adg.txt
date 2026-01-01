@@ -1,6 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2026.01.02.1
+! Version: 2026.0102.1
 ! Expires: 1 min
 !
 
