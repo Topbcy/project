@@ -60,5 +60,17 @@ google-images.papakatsu.co##div.page-wrapper:first-child > nav.nav-container.bg-
 ! Faleno
 faleno.jp###bottom-bar > div.img_bottom
 
+! 巴哈姆特
 forum.gamer.com.tw###post_2538568 > div.c-section__main.c-post:last-child > div.c-post__body:nth-child(2) > div.c-post__body__signature.nocontent:nth-child(2)
+
+! Imgurl
 imgurl.org##div.footer:nth-child(8)
+
+! https://sis001.com
+sis001.com##.ad_text
+162.252.9.25##.ad_text
+
+! www.chiphell.com
+chiphell.com##[id^="favatar"] .md_ctrl
+
+
