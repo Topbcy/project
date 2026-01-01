@@ -1,48 +1,12 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2025.1130.1
+! Version: 2026.01.02.1
 ! Expires: 1 min
 !
 
 ! hayav block
 ||slippersprimeexaltation.com^$popup
 ||isabellaentire.com^$popup
-
-! Cybermania Adblock 偵測遮罩解決方案（精準版，不誤殺）
-! 移除遮罩與彈窗（只針對幾個特定容器）
-! cybermania.ws##.baabbe-close:style(display: none !important)
-! cybermania.ws##div[class^="baabbe-"]:style(display: none !important)
-! cybermania.ws##div[class*="baabbe-"]:style(display: none !important)
-! 取消 body 模糊（只針對有模糊屬性的 body）
-! cybermania.ws##body[class*="baabbe-"]:style(filter: none !important)
-! cybermania.ws##body[class*="baabbe-"] > *:style(filter: none !important)
-! 防止 baabbe 偵測變數運作
-! cybermania.ws##+js(abort-on-property-read, baabbe)
-! cybermania.ws##+js(abort-on-property-write, baabbe)
-! cybermania.ws##+js(aopr, baabbe)
-! 阻止 deblocker 插件
-! ||cybermania.ws/wp-content/plugins/deblocker^
-! 選擇性模糊保底用法（如果真的還有殘留才啟用）
-! cybermania.ws##body > div[style*="blur"]:style(filter: none !important)
-! 直接封鎖外掛靜態資源
-! ||cybermania.ws/wp-content/plugins/chp-ads-block-detector/*$script,stylesheet,image
-! 移除/隱藏任何與 adblock 命名相關的節點
-! cybermania.ws##[class*="adblock"], [id*="adblock"]
-! 針對該外掛常見的遮罩骨架（隨機 id/class 開頭）
-! cybermania.ws##div[id^="afzewmhx"]
-! cybermania.ws##div[id^="uxtrr"]
-! cybermania.ws##div[id^="uzgve"]
-! cybermania.ws##.theme1:upward(5)
-! 看到外掛圖示就往上砍掉整個遮罩樹
-! cybermania.ws##img[src*="/wp-content/plugins/chp-ads-block-detector/assets/img/icon.png"]:upward(5)
-! 有些主題會在顯示遮罩時把 body 鎖捲動
-! cybermania.ws##body:style(overflow: auto !important)
-! 文字區（標題/副標）也順手清掉
-! cybermania.ws##.adblock_title
-! cybermania.ws##.adblock_subtitle
-! cybermania.ws#%#//scriptlet('abort-on-property-read', 'CHP') 
-! cybermania.ws#%#//scriptlet('abort-on-property-read', 'chp') 
-
 
 ! offkab block
 xcamcovid.com###load-modal > .modal-dialog > .modal-content
@@ -64,6 +28,7 @@ kin8-jav.com###protection
 kin8-jav.com##.protection
 kin8-jav.com##body.protection:style(overflow:auto !important)
 kin8-jav.com#%#//scriptlet('remove-class', 'protection', 'body', 'stay')
+xcamcovid.com##.popup-box-ads
 
 ! TMDB block adult 
 themoviedb.org##.item_adult_true:style(filter: none !important;)
