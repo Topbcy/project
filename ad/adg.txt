@@ -1,7 +1,6 @@
 [Adguard]
 ! Title: Topbcy List
-! Version: 2026.0102.3
-! Expires: 1 min
+! Version: 2026.0102.4
 !
 
 ! hayav block
