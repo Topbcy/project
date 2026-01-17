@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0102.6
+! Version: 2026.0117.1
 !
 
 ! hayav block
@@ -97,3 +97,24 @@ www.mgstage.com###center_column > .isp_none
 www.mgstage.com###other_service
 ||static.mgstage.com/mgs/img/pc/*_right_*.jpg$image
 www.mgstage.com##.random_sale_banner_box
+
+! 2026年1月3日 https://javball.com
+javball.com##.popup-box-ads
+
+! 2026年1月4日 https://kr-av.com
+kr-av.com##.popup-box-ads
+
+! 2026年1月10日 https://javsunday.com
+javsunday.com##.popup-box-ads
+
+! 2026年1月10日 https://news.futunn.com
+news.futunn.com##.offcial-flating-ball__content__desc
+||static.futunn.com/upload/nn-official-gold-flow/hk_0_1_20250731/hk_actbuoy-63402a2f1a45cc4abf576836a96e330c.png?_=1753866179176$image
+
+! 2026年1月10日 https://www.mgstage.com
+www.mgstage.com###close-appeal-modal-button > .close-icon.material-icons
+
+! 2026年1月17日 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Modal-inner > .Modal-content > div > .signFlowModal-container > .signQr-container > .signQr-rightContainer > .css-hvo7ig
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Modal-inner > .Modal-content > div > .signFlowModal-container > .signQr-container > .signQr-leftContainer
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Button--plain.Modal-closeButton.Button
