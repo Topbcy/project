@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0117.1
+! Version: 2026.0126.1
 !
 
 ! hayav block
@@ -118,3 +118,9 @@ www.mgstage.com###close-appeal-modal-button > .close-icon.material-icons
 zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Modal-inner > .Modal-content > div > .signFlowModal-container > .signQr-container > .signQr-rightContainer > .css-hvo7ig
 zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Modal-inner > .Modal-content > div > .signFlowModal-container > .signQr-container > .signQr-leftContainer
 zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper--transparent.Modal-wrapper > .signFlowModal.Modal--default.Modal > .Button--plain.Modal-closeButton.Button
+
+! 2026年1月19日 https://www.dmm.co.jp
+www.dmm.co.jp##.top-sns
+
+! 2026年1月20日 https://sweetie-fox.com
+##.popup-box-ads
