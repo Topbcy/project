@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0202.3
+! Version: 2026.0202.4
 !
 
 ! hayav block
@@ -135,3 +135,6 @@ taobao.com##.clearfix.J_Nav.newnav
 tmall.com##.tb-toolkit-list-new.tb-toolkit-list
 tmall.com##.a-td-no.headStrip--qPrcOnQP
 taobao.com##.a-td-no.headStrip--qPrcOnQP
+
+! 2026年2月2日 https://www.chiphell.com
+chiphell.com##.pbn.bml.bm
