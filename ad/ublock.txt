@@ -133,4 +133,5 @@ taobao.com###ice-container > div.J_Module.clearfix.tbh-superbanner.with-bg-link-
 taobao.com##.HomeTaocoinEnter--Ty8a7ftM
 taobao.com##.clearfix.J_Nav.newnav
 tmall.com##.tb-toolkit-list-new.tb-toolkit-list
-
+tmall.com##.a-td-no.headStrip--qPrcOnQP
+taobao.com##.a-td-no.headStrip--qPrcOnQP
