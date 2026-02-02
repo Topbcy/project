@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0126.1
+! Version: 2026.0202.1
 !
 
 ! hayav block
