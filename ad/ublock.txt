@@ -124,3 +124,12 @@ www.dmm.co.jp##.top-sns
 
 ! 2026年1月20日 https://sweetie-fox.com
 ##.popup-box-ads
+
+! 2026年2月2日 https://buyertrade.taobao.com
+buyertrade.taobao.com##.tb-toolkit-list-new.tb-toolkit-list
+
+! 2026年2月2日 https://www.taobao.com
+www.taobao.com##.tb-toolkit-list-new.tb-toolkit-list
+www.taobao.com##.react-draggable
+www.taobao.com##.tips-content
+www.taobao.com###ice-container > div.J_Module.clearfix.tbh-superbanner.with-bg-link--xnIbrHd3.with-is-promo--cTxf0sPB:first-child
