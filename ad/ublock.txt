@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0202.1
+! Version: 2026.0202.2
 !
 
 ! hayav block
@@ -125,11 +125,8 @@ www.dmm.co.jp##.top-sns
 ! 2026年1月20日 https://sweetie-fox.com
 ##.popup-box-ads
 
-! 2026年2月2日 https://buyertrade.taobao.com
-buyertrade.taobao.com##.tb-toolkit-list-new.tb-toolkit-list
-
 ! 2026年2月2日 https://www.taobao.com
-www.taobao.com##.tb-toolkit-list-new.tb-toolkit-list
-www.taobao.com##.react-draggable
-www.taobao.com##.tips-content
-www.taobao.com###ice-container > div.J_Module.clearfix.tbh-superbanner.with-bg-link--xnIbrHd3.with-is-promo--cTxf0sPB:first-child
+taobao.com##.tb-toolkit-list-new.tb-toolkit-list
+taobao.com##.react-draggable
+taobao.com##.tips-content
+taobao.com###ice-container > div.J_Module.clearfix.tbh-superbanner.with-bg-link--xnIbrHd3.with-is-promo--cTxf0sPB:first-child
