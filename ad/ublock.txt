@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0202.2
+! Version: 2026.0202.3
 !
 
 ! hayav block
@@ -130,3 +130,7 @@ taobao.com##.tb-toolkit-list-new.tb-toolkit-list
 taobao.com##.react-draggable
 taobao.com##.tips-content
 taobao.com###ice-container > div.J_Module.clearfix.tbh-superbanner.with-bg-link--xnIbrHd3.with-is-promo--cTxf0sPB:first-child
+taobao.com##.HomeTaocoinEnter--Ty8a7ftM
+taobao.com##.clearfix.J_Nav.newnav
+tmall.com##.tb-toolkit-list-new.tb-toolkit-list
+
