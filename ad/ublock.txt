@@ -138,3 +138,31 @@ taobao.com##.a-td-no.headStrip--qPrcOnQP
 
 ! 2026年2月2日 https://www.chiphell.com
 chiphell.com##.pbn.bml.bm
+
+! 2026年2月4日 https://apk.tw
+apk.tw##.pbn.bml.bm
+apk.tw##div.bmw.bm > .cl.bm_c
+
+! 2026年2月6日 https://apk.tw
+apk.tw##.viewShare
+
+! 2026年2月18日 https://www.avbase.net
+www.avbase.net##div.gap-1.flex-col.flex.py-2.px-4.bg-base-100:nth-of-type(8)
+www.avbase.net##div.gap-1.flex-col.flex.py-2.px-4.bg-base-100:nth-of-type(7)
+www.avbase.net##div.gap-1.flex-col.flex.py-2.px-4.bg-base-100:nth-of-type(6)
+www.avbase.net##.gap-2.col-start-1.items-center.flex-wrap.overflow-hidden.flex
+
+! 2026年2月18日 https://x18r.com
+x18r.com##.w-full.bg-amber-100.items-center.justify-center.flex-wrap.flex
+x18r.com##.bg-sky-400.text-white.p-4.flex-col.w-ful.flex
+
+! 2026年2月18日 https://japonx.net
+japonx.net##.w-full.bg-amber-100.items-center.justify-center.flex-wrap.flex
+japonx.net##.bg-sky-400.text-white.p-4.flex-col.w-ful.flex
+japonx.net##.chaport-launcher-close-icon
+japonx.net##.chaport-anim-show.chaport-launcher-anim.no-photo.chaport-launcher-button
+japonx.net##.chaport-message-popup-body
+japonx.net##.chaport-message-input
+
+! 2026年3月3日 https://www.chiphell.com
+www.chiphell.com##.plm.plc > .sign
