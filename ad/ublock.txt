@@ -166,3 +166,11 @@ japonx.net##.chaport-message-input
 
 ! 2026年3月3日 https://www.chiphell.com
 www.chiphell.com##.plm.plc > .sign
+
+! 2026年3月14日 https://apk.tw
+apk.tw##.greenSubmenu
+apk.tw###thread_types
+apk.tw##.adsbygoogle
+apk.tw###category_lk
+apk.tw##.business
+apk.tw###frameBgr4ut
