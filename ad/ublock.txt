@@ -174,3 +174,20 @@ apk.tw##.adsbygoogle
 apk.tw###category_lk
 apk.tw##.business
 apk.tw###frameBgr4ut
+
+! 2026年3月18日 https://www.chiphell.com
+www.chiphell.com##.plm.plc
+www.chiphell.com##.plm.plc > .sign
+
+! 2026年3月22日 https://missav.ws
+missav.ws##.lg\:py-16.py-12.mx-auto.max-w-7xl
+missav.ws##.mb-5.space-y-5 > div
+missav.ws##.mb-6.space-y-6
+
+! 2026年3月22日 https://missav.ai
+missav.ai##.mb-5.space-y-5 > div
+missav.ai##.lg\:py-16.py-12.mx-auto.max-w-7xl
+missav.ai##.mb-6.space-y-6
+
+! 2026年3月22日 https://video.dmm.co.jp
+video.dmm.co.jp##[href^="https://tracking.cds.dmm.co.jp/v1/tracking/click"]
