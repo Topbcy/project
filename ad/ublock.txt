@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0331.1
+! Version: 2026.0331.2
 !
 
 ! hayav block
@@ -170,7 +170,6 @@ www.chiphell.com##.plm.plc > .sign
 ! 2026年3月14日 https://apk.tw
 apk.tw##.greenSubmenu
 apk.tw###thread_types
-apk.tw##.adsbygoogle
 apk.tw##.business
 apk.tw###frameBgr4ut
 
