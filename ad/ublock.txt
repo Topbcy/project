@@ -1,6 +1,6 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0331.2
+! Version: 2026.0429.1
 !
 
 ! hayav block
@@ -44,7 +44,6 @@ video.dmm.co.jp##div:nth-child(65)
 video.dmm.co.jp##div:nth-child(66)
 video.dmm.co.jp##div:nth-child(81)
 video.dmm.co.jp###global-dialog
-video.dmm.co.jp##.z-global-dialog
 video.dmm.co.jp##body:style(overflow:auto !important)
 video.dmm.co.jp##._n4v1-header-iframe-cross-section-banner > [href^="https://cn.dap.dmm.co.jp/click"]
 video.dmm.co.jp##.visited\:text-purple-500.hover\:text-red-800.text-blue-800.overflow-hidden.h-16.block.w-full > picture
