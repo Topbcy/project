@@ -49,7 +49,6 @@ video.dmm.co.jp##body:style(overflow:auto !important)
 video.dmm.co.jp##._n4v1-header-iframe-cross-section-banner > [href^="https://cn.dap.dmm.co.jp/click"]
 video.dmm.co.jp##.visited\:text-purple-500.hover\:text-red-800.text-blue-800.overflow-hidden.h-16.block.w-full > picture
 video.dmm.co.jp##.visited\:text-purple-500.hover\:text-red-800.text-blue-800.overflow-hidden.h-16.block.w-full
-www.dmm.co.jp##div:nth-of-type(6)
 www.dmm.co.jp##._n4v1-header-iframe-cross-section-banner > [href^="https://cn.dap.dmm.co.jp/click"]
 www.dmm.co.jp##.css-1m9udxv > svg
 www.dmm.co.jp##.css-17nxflf
@@ -189,3 +188,31 @@ missav.ai##.mb-6.space-y-6
 
 ! 2026年3月22日 https://video.dmm.co.jp
 video.dmm.co.jp##[href^="https://tracking.cds.dmm.co.jp/v1/tracking/click"]
+
+! 2026年4月3日 https://www.overclock.net
+www.overclock.net##.primis-wrapper.california-ad.california-article-post
+www.overclock.net###In-Thread_Middle
+www.overclock.net###In-Thread_Lower_2
+www.overclock.net##.california-ad.california-sidebar-ad-large.hide-mw-responsiveWide.california-sidebar-ad
+www.overclock.net###In-Thread_Lower_3
+www.overclock.net##.p-body-sidebar > .california-ad.california-sidebar-ad
+www.overclock.net##.california-ad.california-ad-vendor.california-sidebar-ad
+www.overclock.net###RightRail_Middle_Adhesion
+
+! 2026年4月11日 https://jvs91.com
+jvs91.com##div.banner-wrapper:nth-of-type(42)
+jvs91.com##div.banner-wrapper:nth-of-type(21)
+jvs91.com##div.banner-wrapper:nth-of-type(63)
+
+! 2026年4月11日 https://j91.asia
+j91.asia##.ad-wrapper
+j91.asia##.lazy-uapp-ad
+
+! 2026年4月17日 https://javdb572.com
+javdb572.com##.app-desktop-banner
+
+! 2026年4月20日 http://jellyfin.lan
+jellyfin.lan##.appfooter
+
+! 2026年4月23日 https://pcunboxing.com
+||pcunboxing.com/wp-content/uploads/logo_%E7%99%BD%E5%BA%95%E9%BB%91%E6%A8%99*.jpg$image
