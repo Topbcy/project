@@ -215,3 +215,21 @@ jellyfin.lan##.appfooter
 
 ! 2026年4月23日 https://pcunboxing.com
 ||pcunboxing.com/wp-content/uploads/logo_%E7%99%BD%E5%BA%95%E9%BB%91%E6%A8%99*.jpg$image
+
+! 2026年5月3日 https://pig69.com
+##.banner-left-fixed.banner-left-location
+
+! 2026年5月10日 https://blackwidof.org
+##.banner-right-fixed.banner-right-location
+
+! 2026年6月6日 https://video.dmm.co.jp
+video.dmm.co.jp##.cds-deliver-tags > iframe
+
+! 2026年6月26日 https://search.gamer.com.tw
+search.gamer.com.tw##.select-none.h-\[600px\].bg-\[\#e9e9e9\].text-center.p-4\.5.center
+
+! 2026年7月1日 https://apk.tw
+apk.tw###aswift_1
+
+! 2026年7月7日 https://tw.tradingview.com
+tw.tradingview.com##.content-jr14r9WO.content-CScppXCg.apply-overflow-tooltip--check-children.apply-overflow-tooltip--allow-text.apply-overflow-tooltip
