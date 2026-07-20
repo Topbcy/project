@@ -234,3 +234,7 @@ apk.tw###aswift_1
 
 ! 2026年7月7日 https://tw.tradingview.com
 tw.tradingview.com##.content-jr14r9WO.content-CScppXCg.apply-overflow-tooltip--check-children.apply-overflow-tooltip--allow-text.apply-overflow-tooltip
+
+hentai-manga.org##div[id^="guard-"]
+hentai-manga.org##div[id^="layer-"][role][aria-modal]
+hentai-manga.org##html body img:style(filter:none!important;-webkit-filter:none!important)
