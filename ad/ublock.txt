@@ -1,6 +1,7 @@
 [uBlock]
 ! Title: Topbcy List uBlock
-! Version: 2026.0714.1
+! Version: 2026.0720.1
+! Homepage: https://raw.githubusercontent.com/Topbcy/project/refs/heads/main/ad/ublock.txt
 !
 
 ! hayav block
